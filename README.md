@@ -1,1 +1,1 @@
-# sql-study-project 1
+# Sql Server
