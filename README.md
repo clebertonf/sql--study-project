@@ -1,1 +1,1 @@
-# sql--study-project
+# sql-study-project
