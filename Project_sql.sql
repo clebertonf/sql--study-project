@@ -108,4 +108,3 @@ CREATE TABLE [StudentCourse]
     CONSTRAINT [FK_studentCourse_Student_StudentId] FOREIGN KEY ([StudentId]) REFERENCES [Student] ([Id]) ON DELETE NO ACTION,
 );
 GO
-
